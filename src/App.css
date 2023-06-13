@@ -1,0 +1,9 @@
+
+html, body {
+  background-color: ghostwhite;
+    min-width: 768px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    scroll-behavior: smooth;
+  }
